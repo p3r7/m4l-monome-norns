@@ -28,3 +28,5 @@ The signal levels shown on the compressor will only be accurate when the compres
 ## Social
 
 Discussion on the [dedicated lines thread](https://llllllll.co/t/norns-osc-control-m4l-device/45011).
+
+See also the [device page](https://maxforlive.com/library/device.php?id=7521) on maxforlive.com.
